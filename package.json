@@ -1,0 +1,22 @@
+{
+  "name": "nain-gs",
+  "version": "0.0.1",
+  "description": "Tabris nain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EA-LearningTesting/Nain-Tabris.git"
+  },
+  "author": "Eslem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EA-LearningTesting/Nain-Tabris/issues"
+  },
+  "homepage": "https://github.com/EA-LearningTesting/Nain-Tabris",
+  "dependencies": {
+    "tabris": "^1.0.0"
+  }
+}
